@@ -18,9 +18,9 @@ int main(){
 void solve_equation_leapfrog(float t_init, float t_end, float delta_t, string filename){
     
   float t=t_init;
-  float y=0;
-  float z=0;
-  float x=1;
+  float y=1.0;
+  float z=0.0;
+  float x=1.0;
   float m= 7294.29;
  
   float q = 2.0;
