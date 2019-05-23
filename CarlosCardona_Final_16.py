@@ -19,6 +19,12 @@ dv=0.1
 xx=np.random.random()
 yy=np.random.random()
 
+
+print("Coordenada X:")
+print("Coordenada Y:")
+print("Tiempo:")
+print("Velocidad:")
+
 #for i in range (10**6):
     
     #La idea es bucar que el tiempo desde una posición aleatoria x y   hasta la ubicación del barco,
